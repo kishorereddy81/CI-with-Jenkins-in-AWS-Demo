@@ -3,7 +3,7 @@ pipeline {
     environment {
         PROJECT_ID = 'kishore-sl'
         CLUSTER_NAME = 'kishore-cluster-1'
-        LOCATION = 'us-central1-a'
+        LOCATION = 'us-central1-c'
         CREDENTIALS_ID = 'kubernetes'
     }
     stages {
