@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_ID = 'devops-kishore'
+        PROJECT_ID = 'kishore-sl'
         CLUSTER_NAME = 'kishore-cluster-1'
         LOCATION = 'us-central1-a'
         CREDENTIALS_ID = 'kubernetes'
